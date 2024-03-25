@@ -1,4 +1,4 @@
-# descarga-video-de-YouTube
+# Descarga video/audio de YouTube
 
 Este es un programa sencillo desarrollado en Python para descargar videos o audios de YouTube mediante una interfaz gráfica intuitiva.
 
