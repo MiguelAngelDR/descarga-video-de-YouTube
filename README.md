@@ -13,6 +13,7 @@ python main.py
   ![Captura 2]{imagenes/cap2.png}
 5. Haga clic en el botón "Descargar" y espere a que se complete el proceso de descarga.
   ![Captura 3]{imagenes/cap3.png}
+6. Si descargas el video se descargara en una carpeta llamada descargas, si es audio se descargar en una carpeta llamada audio que se encuentra en el interior de descargas
 ## Funcionalidades principales
 - Descarga de video de YouTube: Puede descargar videos completos de YouTube
 - Descarga de audio de YouTube: También puede descargar solo el audio de un video de YouTube en formato MP3.
