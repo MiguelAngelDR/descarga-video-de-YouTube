@@ -10,7 +10,11 @@ python main.py
 3. Se abrirá una interfaz gráfica que le permitirá ingresar la URL del video de YouTube que desea descargar.
    ![Captura 1](imagenes/cap1.png)
 4. Seleccione si desea descargar el video o solo el audio.
+
+
   ![Captura 2](imagenes/cap2.png)
+
+  
 5. Haga clic en el botón "Descargar" y espere a que se complete el proceso de descarga.
   ![Captura 3](imagenes/cap3.png)
 6. Si descargas el video se descargara en una carpeta llamada descargas, si es audio se descargar en una carpeta llamada audio que se encuentra en el interior de descargas
